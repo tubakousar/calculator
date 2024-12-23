@@ -15,9 +15,9 @@ A simple and responsive calculator built with React.js. This project demonstrate
 
 ## Preview
 
-![Calculator Preview](path/to/your/image.png)
+![Calculator Preview](./image.png)
 
-> Replace `path/to/your/image.png` with the actual path to a screenshot of your calculator.
+
 
 ---
 
