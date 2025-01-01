@@ -15,7 +15,6 @@ A simple and responsive calculator built with React.js. This project demonstrate
 - Responsive Design: Works seamlessly across all devices.
 - Modular Components: Built with reusable and well-structured React components.
 - State Management: Utilizes React hooks for efficient state handling.
-- Error Handling: Ensures smooth and bug-free performance.
 
 ---
 
