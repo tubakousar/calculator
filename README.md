@@ -1,6 +1,7 @@
 # React Calculator
 
 A simple and responsive calculator built with React.js. This project demonstrates the use of React components, state management, and basic styling techniques.
+This project showcases my practical experience with React and highlights my ability to build interactive user interfaces.
 
 ---
 
